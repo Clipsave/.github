@@ -1,12 +1,10 @@
-## Hi there 👋
+# Clipsave 🎖️
 
-<!--
+Clipsave is your all-in-one media downloader. 
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Support 🎁
+There are a few ways you can support us.
+
+1. Share our product. Could you tell a friend to tell a friend about Clipsave? https://clipsave.ng/about
+2. Donate. Donations are highly welcome. https://clipsave.ng/support/donate 
